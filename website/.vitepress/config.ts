@@ -54,6 +54,12 @@ export default defineConfig({
             { text: 'Categories', link: '/manuals/guides/categories/' },
             { text: 'Synchronization', link: '/manuals/guides/synchronization/' }
           ]
+        },
+        {
+          text: 'Privacy',
+          items: [
+            { text: 'Data Sent to Developers', link: '/privacy/data-collected/' }
+          ]
         }
       ]
     },
