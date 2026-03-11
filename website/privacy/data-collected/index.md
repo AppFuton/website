@@ -9,7 +9,7 @@ footer: false
 What data Futon collects and sends to its developers.
 
 ::: tip Summary
-By default, **no data is sent to Futon developers**. The only data that can ever reach our servers is opt-in crash reports. Everything else stays entirely on your device.
+By default, **no data is sent to Futon developers**. The only data that can ever reach our servers is crash reports. Everything else stays entirely on your device.
 :::
 
 ## Crash reports
