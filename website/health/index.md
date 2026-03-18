@@ -369,7 +369,7 @@
 | MashleScan | [mashlescan.fr](https://mashlescan.fr) | ✅ |
 | MediocreToons | [mediocretoons.com](https://mediocretoons.com) | ✅ |
 | Menudo Fansub | [www.menudo-fansub.com](https://www.menudo-fansub.com) | ✅ |
-| MerlinScans | [merlinscans.com](https://merlinscans.com) | ✅ |
+| MerlinScans | [merlinscans.com](https://merlinscans.com) | ❌ |
 | MgKomik | [id.mgkomik.cc](https://id.mgkomik.cc) | ✅ |
 | MhScans | [mhscans.mundoalterno.org](https://mhscans.mundoalterno.org) | ✅ |
 | Mi2MangaEs | [mi2manga.lat](https://mi2manga.lat) | ✅ |
