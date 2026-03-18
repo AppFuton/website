@@ -94,7 +94,7 @@
 | DuoScanlators | [duoscanlators.blogspot.com](https://duoscanlators.blogspot.com) | ✅ |
 | DynastyScans | [dynasty-scans.com](https://dynasty-scans.com) | ✅ |
 | EdScanlation | [edscanlation.fr](https://edscanlation.fr) | ✅ |
-| Elder Manga | [eldermanga.com](https://eldermanga.com) | ✅ |
+| Elder Manga | [eldermanga.com](https://eldermanga.com) | ❌ |
 | Eleceed Türkiye | [eleceedturkiye.wordpress.com](https://eleceedturkiye.wordpress.com) | ✅ |
 | ElevenScanlator | [elevenscanlator.blogspot.com](https://elevenscanlator.blogspot.com) | ✅ |
 | EmperorScan | [emperorscan.mundoalterno.org](https://emperorscan.mundoalterno.org) | ✅ |
@@ -109,7 +109,7 @@
 | FireScans | [firescans.xyz](https://firescans.xyz) | ✅ |
 | FirstKissManhua | [1stkissmanhua.net](https://1stkissmanhua.net) | ✅ |
 | Fl-Ares | [fl-ares.com](https://fl-ares.com) | ✅ |
-| FlameComics | [flamecomics.xyz](https://flamecomics.xyz) | ✅ |
+| FlameComics | [flamecomics.xyz](https://flamecomics.xyz) | ❌ |
 | FlowerManga | [flowermanga.net](https://flowermanga.net) | ✅ |
 | FmTeam | [fmteam.fr](https://fmteam.fr) | ✅ |
 | FoxTruyen | [foxtruyen.com](https://foxtruyen.com) | ✅ |
@@ -211,7 +211,7 @@
 | LhTranslation | [lhtranslation.net](https://lhtranslation.net) | ✅ |
 | LichMangas | [lichmangas.com](https://lichmangas.com) | ✅ |
 | Like-Manga.net | [like-manga.net](https://like-manga.net) | ✅ |
-| LikeManga | [likemanga.ink](https://likemanga.ink) | ✅ |
+| LikeManga | [likemanga.ink](https://likemanga.ink) | ❌ |
 | LikeManga.in | [likemanga.in](https://likemanga.in) | ✅ |
 | LilyumFansub | [lilyumfansub.com.tr](https://lilyumfansub.com.tr) | ✅ |
 | LimboScan | [limboscan.com.br](https://limboscan.com.br) | ✅ |
@@ -412,7 +412,7 @@
 | NovelMic | [novelmic.com](https://novelmic.com) | ✅ |
 | OkyyKomik | [www.okyykomik.my.id](https://www.okyykomik.my.id) | ✅ |
 | Olaoe | [olaoe.cyou](https://olaoe.cyou) | ✅ |
-| OlimpoScans | [leerolimpo.com](https://leerolimpo.com) | ✅ |
+| OlimpoScans | [leerolimpo.com](https://leerolimpo.com) | ❌ |
 | OnePieceScan | [onepiecescan.fr](https://onepiecescan.fr) | ✅ |
 | OnePunchManScan | [onepunchmanscan.com](https://onepunchmanscan.com) | ✅ |
 | OpiaToon | [opiatoon.art](https://opiatoon.art) | ✅ |
@@ -423,7 +423,7 @@
 | PassamaoScan | [passamaoscan.com](https://passamaoscan.com) | ✅ |
 | PatiManga | [www.patimanga.com](https://www.patimanga.com) | ✅ |
 | PerfScan | [perf-scan.xyz](https://perf-scan.xyz) | ✅ |
-| PhiliaScans | [philiascans.org](https://philiascans.org) | ✅ |
+| PhiliaScans | [philiascans.org](https://philiascans.org) | ❌ |
 | PhoenixScans | [www.phoenixscans.com](https://www.phoenixscans.com) | ✅ |
 | PiedpiperFansub | [piedpiperfansub.me](https://piedpiperfansub.me) | ✅ |
 | PlatinumScans | [platinumscans.com](https://platinumscans.com) | ✅ |
@@ -459,7 +459,7 @@
 | Rùa Hấp Chanh Dây | [ruahapchanhday.com](https://ruahapchanhday.com) | ✅ |
 | S2Manga | [s2manga.com](https://s2manga.com) | ✅ |
 | S2Manga.io | [s2manga.io](https://s2manga.io) | ✅ |
-| SadScans | [sadscans.net](https://sadscans.net) | ✅ |
+| SadScans | [sadscans.net](https://sadscans.net) | ❌ |
 | SakamotoDays | [sakamotodays.fr](https://sakamotodays.fr) | ✅ |
 | SamuraiScan | [samuraiscan.com](https://samuraiscan.com) | ✅ |
 | SapphireScan | [sapphirescan.com](https://sapphirescan.com) | ✅ |
@@ -511,7 +511,7 @@
 | tempestmangas.com | [tempestfansub.net](https://tempestfansub.net) | ✅ |
 | TempestScans | [adumanga.com](https://adumanga.com) | ✅ |
 | Tenshi | [tenshi01.id](https://tenshi01.id) | ✅ |
-| Tenshi Manga | [tenshimanga.com](https://tenshimanga.com) | ✅ |
+| Tenshi Manga | [tenshimanga.com](https://tenshimanga.com) | ❌ |
 | TerritorioLeal | [territorioleal.com](https://territorioleal.com) | ✅ |
 | ThaiManga | [www.thaimanga.net](https://www.thaimanga.net) | ✅ |
 | ThunderScans | [thunderscans.com](https://thunderscans.com) | ✅ |
@@ -555,7 +555,7 @@
 | UmiManga | [www.umimanga.com](https://www.umimanga.com) | ✅ |
 | Usagi | [usagiclub.me](https://usagiclub.me) | ✅ |
 | UToon | [utoon.net](https://utoon.net) | ✅ |
-| Uzay Manga | [uzaymanga.com](https://uzaymanga.com) | ✅ |
+| Uzay Manga | [uzaymanga.com](https://uzaymanga.com) | ❌ |
 | VarnaScan | [varnascan.xyz](https://varnascan.xyz) | ✅ |
 | VinlandSaga | [vinlandsaga.fr](https://vinlandsaga.fr) | ✅ |
 | VioletScans | [violetscans.com](https://violetscans.com) | ✅ |
@@ -565,7 +565,7 @@
 | WebDexScans | [webdexscans.com](https://webdexscans.com) | ✅ |
 | WebtoonHatti | [webtoonhatti.club](https://webtoonhatti.club) | ✅ |
 | WebtoonTr | [webtoontr.net](https://webtoontr.net) | ✅ |
-| Weeb Central | [weebcentral.com](https://weebcentral.com) | ✅ |
+| Weeb Central | [weebcentral.com](https://weebcentral.com) | ❌ |
 | Weloma | [weloma.art](https://weloma.art) | ✅ |
 | WeLoveManga | [welovemanga.one](https://welovemanga.one) | ✅ |
 | WhaleManga | [whalemanga.com](https://whalemanga.com) | ✅ |
