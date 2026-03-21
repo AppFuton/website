@@ -15,7 +15,12 @@ The stable version is recommended for most users. It's well-tested and suitable 
 ::: tip Latest Stable Release
 **Download from [GitHub Releases](https://github.com/AppFuton/Futon/releases/latest)**
 
-Get the APK file named `futon-*.apk` from the latest release.
+Get the APK file named `app-release.apk` from the latest release.
+
+But we recommend installing from an app store for automatic updates and security:
+- [F-Droid](https://f-droid.org/packages/io.github.landwarderer.futon/)
+- [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/io.github.landwarderer.futon)
+- [Zap Store](https://zapstore.dev/apps/io.github.landwarderer.futon)
 :::
 
 ## Nightly Builds
@@ -28,6 +33,7 @@ Nightly builds may contain bugs and unstable features. Use at your own risk and 
 **Download from [GitHub Releases](https://github.com/AppFuton/Futon/releases)**
 
 Look for pre-release versions tagged as "nightly" or with a commit hash.
+or download from [Zapstore](https://zapstore.dev/apps/io.github.landwarderer.futon.nightly)
 :::
 
 ## System Requirements
